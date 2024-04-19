@@ -1,5 +1,5 @@
 document.addEventListener('DOMContentLoaded', function() {
-    const collectionItems = document.querySelectorAll('.collection-item');
+    const collectionItems = document.querySelectorAll('.supersparks-item-select-npgbp');
     const downloadLink = document.querySelector('.download-link-block');
   
     collectionItems.forEach(function(item) {
